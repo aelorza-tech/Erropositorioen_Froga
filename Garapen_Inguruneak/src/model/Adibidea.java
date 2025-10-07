@@ -4,7 +4,7 @@ public class Adibidea {
 
 	public static void main(String[] args) {
 		//Githubeko 1.froga da.
-		Sytem.err.println("Kaixo Errorea");
+		System.err.println("Kaixo Errorea");
 	}
 
 }
